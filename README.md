@@ -1,4 +1,4 @@
-# SmartBrain-api - Final
+# SmartBrain-api
 Face recognition backend ! 
 To run locally: 
 1. Clone this repo
